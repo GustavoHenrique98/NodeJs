@@ -1,0 +1,37 @@
+//Conteudos das aulas
+
+conection.query('SELECT * FROM tasks',(err,results,fields)=>{
+    //     if(err){
+    //         console.log(`Erro ao obter lista de tarefas : ${err}`);
+    //     }else{
+    //         res.json((results))
+    //     }
+    // })
+
+    // Criando um padrão de resposta através de um objeto.
+
+    // let result = {
+    //     status:'Sucess!',
+    //     message:null,
+    //     data:null
+    // }
+    // conection.query('SELECT * FROM tasks',(err,results,fields)=>{
+    //     if(err){
+    //         result.status = 'Error!';
+    //         result.message = 'Erro na obtenção de tarefas';
+    //         result.data = [];
+    //         res.json(result);
+    //     }else{
+    //         result.status = 'Sucess!!';
+    //         result.message = 'Sucesso obtenção de tarefas';
+    //         result.data = results;
+    //         res.json(result)
+    //     }
+    // })
+
+
+
+
+    //Express js cors
+
+    //Cross origin resource sharing

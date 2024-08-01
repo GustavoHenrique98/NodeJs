@@ -1,4 +1,4 @@
-//Exportando variáveis individuais(no caso aqui é u array)
+//Exportando variáveis individuais(no caso aqui é um array)
 
 // let nomes = ['João','Carlos','Ana'];
 
@@ -7,7 +7,7 @@
 
 
 
-//Exportando várias variaveis, funções e etc...
+//Exportando várias variaveis,arrays, funções e etc...
 let nomes = ['João','Carlos','Maria'];
 let frutos = ['Maçã','Banana','Pêra'];
 function soma(a,b){
